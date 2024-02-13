@@ -73,9 +73,11 @@ h2 {
 .menu {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 30px;
   list-style-type: none;
+
 }
+
 
 a {
   text-decoration: none;
