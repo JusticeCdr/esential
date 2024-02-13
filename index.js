@@ -1554,9 +1554,7 @@ function popUp() {
   POP_UP_TEXT.addEventListener("click", () => {
     POP_UP.classList.toggle("none");
   });
-  POP_UP.addEventListener('click', () => {
-    POP_UP.classList.add('none')
-  })
+
 }
 
 popUp();
