@@ -125,9 +125,6 @@ button {
   color: #fff;
 }
 
-.button:hover {
-  background-color: #2980b9;
-}
 
 .answer-list {
   list-style-type: none;
