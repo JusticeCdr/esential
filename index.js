@@ -211,102 +211,102 @@ const QUESTIONS = [
 
   {
     text: "achieve",
-    answers: ["", "erishmoq", "", ""],
+    answers: ["achinish", "erishmoq", "achiq", "egallomoq"],
     rightIndex: 1,
   },
   {
     text: "advise",
-    answers: ["maslahat bermoq", "", "", ""],
+    answers: ["maslahat bermoq", "aqlsiz", "tavakkal", "ustun"],
     rightIndex: 0,
   },
   {
     text: "already",
-    answers: ["", "", "", "allaqachon"],
+    answers: ["hozir", "uqigan", "tayyor", "allaqachon"],
     rightIndex: 3,
   },
   {
     text: "basic",
-    answers: ["", "", "oddiy", ""],
+    answers: ["jaz", "zamonaviy", "oddiy", "kalonka"],
     rightIndex: 2,
   },
   {
     text: "bit",
-    answers: ["parcha", "", "", ""],
+    answers: ["parcha", "hashorot", "olchov", "zamburug"],
     rightIndex: 0,
   },
   {
     text: "consider",
-    answers: ["haqida uylamoq", "", "", ""],
+    answers: ["haqida uylamoq", "jonon", "bulim", "buyruq"],
     rightIndex: 0,
   },
   {
     text: "destroy",
-    answers: ["", "vayron qilmoq", "", ""],
+    answers: ["syujet", "vayron qilmoq", "qurmoq", "varvar"],
     rightIndex: 1,
   },
   {
     text: "enteration",
-    answers: ["", "hursan qilmoq", "", ""],
+    answers: ["qiziq", "hursan qilmoq", "markaz", "bushliq"],
     rightIndex: 1,
   },
   {
     text: "extra",
-    answers: ["", "", "", "qushimcha"],
+    answers: ["hidli sovun", "kirmoshin", "tuz", "qushimcha"],
     rightIndex: 3,
   },
   {
     text: "goal",
-    answers: ["", "", "", "maqsad"],
+    answers: ["yutaman", "yutdim", "urdim", "maqsad"],
     rightIndex: 3,
   },
   {
     text: "lie",
-    answers: ["aldamoq", "", "", ""],
+    answers: ["aldamoq", "til", "barg", "tokilmoq"],
     rightIndex: 0,
   },
   {
     text: "meat",
-    answers: ["", "", "gosht", ""],
+    answers: ["dan keyin", "dan beri", "gosht", "uchrashmoq"],
     rightIndex: 2,
   },
   {
     text: "opinion",
-    answers: ["", "fikr", "", ""],
+    answers: ["kecha", "fikr", "masala", "muammo"],
     rightIndex: 1,
   },
   {
     text: "real",
-    answers: ["", "", "", "haqiqiy"],
+    answers: ["marosim", "komanda", "ishonmoq", "haqiqiy"],
     rightIndex: 3,
   },
   {
     text: "reflect",
-    answers: ["", "", "", "aks etmoq"],
+    answers: ["qaytadan", "hissiyot", "junatmoq", "aks etmoq"],
     rightIndex: 3,
   },
   {
     text: "regard",
-    answers: ["", "", "deb hisoblamoq", ""],
+    answers: ["osmas", "qaytadan", "deb hisoblamoq", "unmoq"],
     rightIndex: 2,
   },
   {
     text: "serve",
-    answers: ["", "", "", "xizmat kursatmoq"],
+    answers: ["bolim", "servis", "internet", "xizmat kursatmoq"],
     rightIndex: 3,
   },
   {
     text: "vegetable",
-    answers: ["sabzavot", "", "", ""],
+    answers: ["sabzavot", "stol", "stul", "rang"],
     rightIndex: 0,
   },
   {
     text: "war",
-    answers: ["urush", "", "", ""],
+    answers: ["urush", "hizmat", "kirmoq", "oyin"],
     rightIndex: 0,
   },
   {
     text: "worth",
-    answers: ["", "arziydigan", "", ""],
+    answers: ["behosdan", "arziydigan", "shimol", "yer"],
     rightIndex: 1,
   },
 
@@ -316,102 +316,102 @@ const QUESTIONS = [
 
   {
     text: "appear",
-    answers: ["", "", "", "deb tuyilmoq"],
+    answers: ["piyoz", "ustun", "nok", "deb tuyilmoq"],
     rightIndex: 3,
   },
   {
     text: "base",
-    answers: ["oddiy", "", "", ""],
+    answers: ["oddiy", "komandirofka", "baza", "joy"],
     rightIndex: 0,
   },
   {
     text: "brain",
-    answers: ["", "miya", "", ""],
+    answers: ["rang", "miya", "ot", "ilgor"],
     rightIndex: 1,
   },
   {
     text: "career",
-    answers: ["", "", "", "ish faoliyati"],
+    answers: ["qisqa", "uzun", "togora", "ish faoliyati"],
     rightIndex: 3,
   },
   {
     text: "clerk",
-    answers: ["do'kon yordamchisi", "", "", ""],
+    answers: ["do'kon yordamchisi", "qurbaqa", "zagarli", "foydali"],
     rightIndex: 0,
   },
   {
     text: "effort",
-    answers: ["harakat", "", "", ""],
+    answers: ["harakat", "qimirlash", "tuxtash", "fortanula"],
     rightIndex: 0,
   },
   {
     text: "enter",
-    answers: ["", "", "kirmoq", ""],
+    answers: ["ketish", "chiqish", "kirmoq", "bosh"],
     rightIndex: 2,
   },
   {
     text: "excellent",
-    answers: ["", "", "", "a'lo"],
+    answers: ["chala", "bal", "yitim", "a'lo"],
     rightIndex: 3,
   },
   {
     text: "hero",
-    answers: ["", "", "", "qahramon"],
+    answers: ["yarim", "butun", "truba", "qahramon"],
     rightIndex: 3,
   },
   {
     text: "hurry",
-    answers: ["", "", "shoshilmoq", ""],
+    answers: ["gilos", "kechikmoq", "shoshilmoq", "to'q"],
     rightIndex: 2,
   },
   {
     text: "inform",
-    answers: ["", "", "habar bermoq", ""],
+    answers: ["xat qutisi", "xat", "habar bermoq", "habarchi"],
     rightIndex: 2,
   },
   {
     text: "later",
-    answers: ["", "", "kenroq", ""],
+    answers: ["oldin", "varoq", "kenroq", "sirkul"],
     rightIndex: 2,
   },
   {
     text: "leave",
-    answers: ["", "ketmoq", "", ""],
+    answers: ["kunduz", "ketmoq", "barg", "yashamoq"],
     rightIndex: 1,
   },
   {
     text: "locate",
-    answers: ["topmoq", "", "", ""],
+    answers: ["topmoq", "joy", "boshqasi", "hiyonat"],
     rightIndex: 0,
   },
   {
     text: "nurse",
-    answers: ["", "hamshira", "", ""],
+    answers: ["operatsiya", "hamshira", "burun", "kasal"],
     rightIndex: 1,
   },
   {
     text: "operation",
-    answers: ["", "operatsiya", "", ""],
+    answers: ["uka", "operatsiya", "brauzer", "axmoq"],
     rightIndex: 1,
   },
   {
     text: "pain",
-    answers: ["", "", "", "og'riq"],
+    answers: ["ninachi", "fizika", "rangbarang", "og'riq"],
     rightIndex: 3,
   },
   {
     text: "refuse",
-    answers: ["", "", "rad etmoq", ""],
+    answers: ["qilmoq", "oxirgisi", "rad etmoq", "chekish"],
     rightIndex: 2,
   },
   {
     text: "though",
-    answers: ["ga qaramasdan", "", "", ""],
+    answers: ["ga qaramasdan", "suylamoq", "gapirmoq", "arriq"],
     rightIndex: 0,
   },
   {
     text: "various",
-    answers: ["", "turli-tuman", "", ""],
+    answers: ["bir xil", "turli-tuman", "varvarlar", "askarlar"],
     rightIndex: 1,
   },
 
@@ -421,102 +421,102 @@ const QUESTIONS = [
 
   {
     text: "actual",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["online", "nohaq", "aybdor", "haqiqiy"],
+    rightIndex: 3,
   },
   {
     text: "amaze",
-    answers: ["", "", "", ""],
+    answers: ["jirafa", "hayratda qoldirmoq", "zebra", "krem"],
     rightIndex: 1,
   },
   {
     text: "charge",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["tanbeh", "quvvat", "narx", "grob"],
+    rightIndex: 2,
   },
   {
     text: "comfort",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["ovutmoq", "mazza", "noqulay", "qulay"],
+    rightIndex: 0,
   },
   {
     text: "contact",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["aloqaga chiqmoq", "himoya", "qirqmoq", "yasamoq"],
+    rightIndex: 0,
   },
   {
     text: "customer",
-    answers: ["", "", "", ""],
+    answers: ["cherkovchi", "haridor", "qushiqchi", "kastyumchi"],
     rightIndex: 1,
   },
   {
     text: "deliver",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["humoya", "dostavchik", "yetkazmoq", "bulmoq"],
+    rightIndex: 2,
   },
   {
     text: "earn",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["yashash", "ketmoq", "yerdan", "erishmoq"],
+    rightIndex: 3,
   },
   {
     text: "gate",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["erishmoq", "gazel", "darvoza", "indyuk"],
+    rightIndex: 2,
   },
   {
     text: "include",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["ichiga olmoq", "yecim", "masala", "saqlash"],
+    rightIndex: 0,
   },
   {
     text: "manage",
-    answers: ["", "", "", ""],
+    answers: ["sarmoyachi", "boshqarmoq", "qushmoq", "haridor"],
     rightIndex: 1,
   },
   {
     text: "mystery",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["sovga", "hech kim", "janob", "sir"],
+    rightIndex: 3,
   },
   {
     text: "occur",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["sodir bolmoq", "bodring", "kur", "chuchqaday"],
+    rightIndex: 0,
   },
   {
     text: "oposite",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["chetida", "togrisida", "zid", "yonida"],
+    rightIndex: 2,
   },
   {
     text: "plate",
-    answers: ["", "", "", ""],
+    answers: ["sayora", "likop", "urti", "ichki"],
     rightIndex: 1,
   },
   {
     text: "receive",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["qaytarmoq", "kesmoq", "ertadan", "qabul qilmoq"],
+    rightIndex: 3,
   },
   {
     text: "reward",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["sovrin", "bermoq", "laylak", "qaytarmoq"],
+    rightIndex: 0,
   },
   {
     text: "set",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["chaqirmoq", "bermoq", "ornatmoq", "chizish"],
+    rightIndex: 2,
   },
   {
     text: "steal",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["kurinish", "har doim", "ogirlamoq", "chopmoq"],
+    rightIndex: 2,
   },
   {
     text: "thief",
-    answers: ["", "", "", ""],
+    answers: ["zavod", "ogri", "komirchi", "dehqon"],
     rightIndex: 1,
   },
 
@@ -527,102 +527,102 @@ const QUESTIONS = [
   {
     text: "advance",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "athlete",
-    answers: ["", "", "", ""],
+    answers: ["", "sportchi", "", ""],
     rightIndex: 1,
   },
   {
     text: "avarage",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "ortacha", ""],
+    rightIndex: 2,
   },
   {
     text: "behavior",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["xulq atvor", "", "", ""],
+    rightIndex: 0,
   },
   {
     text: "behind",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "", "orqasida"],
+    rightIndex: 3,
   },
   {
     text: "course",
-    answers: ["", "", "", ""],
+    answers: ["", "dars", "", ""],
     rightIndex: 1,
   },
   {
     text: "lower",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "", "pasaymoq"],
+    rightIndex: 3,
   },
   {
     text: "match",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "mos kelmoq", ""],
+    rightIndex: 2,
   },
   {
     text: "member",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "azo", ""],
+    rightIndex: 2,
   },
   {
     text: "mental",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "", "aqliy"],
+    rightIndex: 3,
   },
   {
     text: "passanger",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["yolovchi", "", "", ""],
+    rightIndex: 0,
   },
   {
     text: "personality",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "shaxsiyat", ""],
+    rightIndex: 2,
   },
   {
     text: "poem",
-    answers: ["", "", "", ""],
+    answers: ["", "sher", "", ""],
     rightIndex: 1,
   },
   {
     text: "pole",
-    answers: ["", "", "", ""],
+    answers: ["", "xoda", "", ""],
     rightIndex: 1,
   },
   {
     text: "remove",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "", "olib tashlamoq"],
+    rightIndex: 3,
   },
   {
     text: "safety",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["xafvsizlik", "", "", ""],
+    rightIndex: 0,
   },
   {
     text: "shoot",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "otmoq", ""],
+    rightIndex: 2,
   },
   {
     text: "sound",
-    answers: ["", "", "", ""],
+    answers: ["", "ovoz chiqarmoq", "", ""],
     rightIndex: 1,
   },
   {
     text: "swim",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["", "", "", "suzmoq"],
+    rightIndex: 3,
   },
   {
     text: "web",
-    answers: ["", "", "", ""],
-    rightIndex: 1,
+    answers: ["orgimchak turi", "", "", ""],
+    rightIndex: 0,
   },
 
   // unit 23 end
@@ -632,17 +632,17 @@ const QUESTIONS = [
   {
     text: "block",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "cheer",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "complex",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "ciritic",
@@ -662,27 +662,27 @@ const QUESTIONS = [
   {
     text: "fit",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "friendship",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "guide",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "lack",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "passage",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "perform",
@@ -692,17 +692,17 @@ const QUESTIONS = [
   {
     text: "pressure",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "probably",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "public",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "strike",
@@ -712,22 +712,22 @@ const QUESTIONS = [
   {
     text: "support",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "task",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "term",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "unite",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
 
   // unit 24 end
@@ -742,17 +742,17 @@ const QUESTIONS = [
   {
     text: "environment",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "factory",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "featury",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "instance",
@@ -762,42 +762,42 @@ const QUESTIONS = [
   {
     text: "involve",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "medicine",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "mix",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "organize",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "period",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "populate",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "produce",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "range",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "recognize",
@@ -807,12 +807,12 @@ const QUESTIONS = [
   {
     text: "regular",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "sign",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "tip",
@@ -832,7 +832,7 @@ const QUESTIONS = [
   {
     text: "wide",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
 
   // unit 25 end
@@ -842,17 +842,17 @@ const QUESTIONS = [
   {
     text: "advise",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "along",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "attention",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "attract",
@@ -867,12 +867,12 @@ const QUESTIONS = [
   {
     text: "drop",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "final",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "further",
@@ -882,17 +882,17 @@ const QUESTIONS = [
   {
     text: "imply",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "maintain",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "neither",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "otherwise",
@@ -902,27 +902,27 @@ const QUESTIONS = [
   {
     text: "pysical",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "prove",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "react",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "ride",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "situated",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "society",
@@ -932,13 +932,13 @@ const QUESTIONS = [
   {
     text: "standard",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
 
   {
     text: "suggest ",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
 
   // unit 26 end
@@ -952,22 +952,22 @@ const QUESTIONS = [
   {
     text: "bite",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "coast",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "deal",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "desert",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "earthquake",
@@ -977,17 +977,17 @@ const QUESTIONS = [
   {
     text: "effective",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "examine",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "false",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "gift",
@@ -997,12 +997,12 @@ const QUESTIONS = [
   {
     text: "hunger",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "imagine",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "journey",
@@ -1017,12 +1017,12 @@ const QUESTIONS = [
   {
     text: "quite",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "rather",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "spesific",
@@ -1032,7 +1032,7 @@ const QUESTIONS = [
   {
     text: "tour",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "trip",
@@ -1042,7 +1042,7 @@ const QUESTIONS = [
   {
     text: "value",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
 
   // unit 28 end
@@ -1052,22 +1052,22 @@ const QUESTIONS = [
   {
     text: "band",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "barely",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "boring",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "cancel",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "driway",
@@ -1082,47 +1082,47 @@ const QUESTIONS = [
   {
     text: "instrument",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "list",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "magic",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "message",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "notice",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "own",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "predict",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "professor",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "rush",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "schedule",
@@ -1142,12 +1142,12 @@ const QUESTIONS = [
   {
     text: "storm",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "within",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
 
   // unit 28 end
@@ -1157,17 +1157,17 @@ const QUESTIONS = [
   {
     text: "advertise",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "assign",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "audience ",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "breakfast",
@@ -1177,12 +1177,12 @@ const QUESTIONS = [
   {
     text: "competition ",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "cool",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "gain",
@@ -1192,22 +1192,22 @@ const QUESTIONS = [
   {
     text: "importance",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "knowledge",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "major",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "mean",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "prefer",
@@ -1217,42 +1217,42 @@ const QUESTIONS = [
   {
     text: "president",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "progress",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "respect",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "rich",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "skill",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "somehow",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "strength",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "vote",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
 
   // unit 29 end
@@ -1272,52 +1272,52 @@ const QUESTIONS = [
   {
     text: "amount",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "belief",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "center",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "common",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "cost",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "demonstrate",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "different",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "evidence",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "honesty",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "indiom",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "independent",
@@ -1332,27 +1332,27 @@ const QUESTIONS = [
   {
     text: "master",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "memory",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "proper",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 0,
   },
   {
     text: "scan",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 2,
   },
   {
     text: "section",
     answers: ["", "", "", ""],
-    rightIndex: 1,
+    rightIndex: 3,
   },
   {
     text: "surface",
@@ -1424,7 +1424,7 @@ START_GAME_BUTTONS.forEach((button, index) =>
     if (index) {
       activeQuestionIndex = index * 20;
     }
-
+    
     updateMoneyDisplay(0);
     setActiveQuestion(activeQuestionIndex);
     showScreen(1);
@@ -1524,13 +1524,13 @@ async function highlightAnswer(answerNode, type, timeoutMs) {
 function gameOver(status) {
   if (status === "win") {
     showScreen(3);
-    restartGame(3000);
+    restartGame(2000);
   }
 
   if (status === "lose") {
     updateMoneyDisplay(0);
     showScreen(2);
-    restartGame(3000);
+    restartGame(2000);
   }
 }
 
@@ -1550,12 +1550,4 @@ function restartGame(time) {
   }, time);
 }
 
-function popUp() {
-  POP_UP_TEXT.addEventListener("click", () => {
-    POP_UP.classList.toggle("none");
-  });
-
-}
-
-popUp();
 
